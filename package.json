@@ -1,0 +1,19 @@
+{
+  "name": "ods-ws-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverfurmage/ods-ws-server.git"
+  },
+  "author": "Oliver Furmage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliverfurmage/ods-ws-server/issues"
+  },
+  "homepage": "https://github.com/oliverfurmage/ods-ws-server#readme",
+  "dependencies": {
+    "ws": "^7.2.1"
+  }
+}
